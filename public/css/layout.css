@@ -272,8 +272,9 @@ ul#nav li.current a {
 
 #about .profile-pic {
     position: relative;
-    min-width: 207px;
-    height: 321px;
+    max-width: 200px;
+    height: 300px;
+    margin-top: 20px;
     border-radius: 7%;
 }
 
