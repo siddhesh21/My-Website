@@ -1,0 +1,132 @@
+{
+    "main": {
+        "name": "Siddhesh Kankekar",
+        "occupation": "Studying Master's  @Trinity College Dublin, Ireland",
+        "description": "",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I am Siddhesh! ",
+        "contactmessage": "Connect with me.",
+        "email": "kankekas@tcd.ie",
+        "phone": "+353 851740484",
+        "address": {
+            "street": "Kavanagh Court, 1 Gardiner Street Lower",
+            "city": "Dublin",
+            "state": "Leinster",
+            "zip": "D01 P9Y1"
+        },
+        "website": "https://www.mywebsite.com/",
+        "resumedownload": "#",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/siddhesh.kankekar.50/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/siddhesh-kankekar-2a5b22186/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/siddhesh.2101/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/siddhesh21",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "education": [{
+                "school": "Trinity College Dublin - Ireland",
+                "degree": "Master's Degree, Computer Science: Intelligent Systems",
+                "graduated": "Sept 2021"
+            },
+            {
+                "school": "University of Mumbai - India",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "July 2019",
+                "description": "Graduated with First Class Honours"
+            }
+        ],
+
+        "work": [{
+            "company": "Ugam Solution Pvt Ltd.",
+            "title": "Associate Analyst, Market Research Op",
+            "years": "July 2019 - June 2020",
+            "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones in a professional environment.  As per client requirements, studies included static, dynamic, media contents, and client-specific survey setups and modules by adapting quickly to company-specific software.\nAlong with programming, I would debug data queries by the client, manage tasks such as client requests and changes, data manipulation, vendor distribution end links, Internal quality checks, mobile compatibility, User Interface testing, dynamic media setups, and project closure data. "
+        }],
+        "skillmessage": "My Programming Language Proficiency",
+        "skills": [{
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "85%"
+            },
+            {
+                "name": "Git",
+                "level": "70%"
+            },
+            {
+                "name": "Web Development",
+                "level": "90%"
+            },
+            {
+                "name": "Machine Learning",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "NetfliX Clone ",
+                "category": "(React JS, Stripe, Firebase)",
+                "image": "Netflix.png",
+                "url": "https://project-netflix-23ae7.web.app"
+            },
+            {
+                "title": "Google Search ",
+                "category": "(React JS, Google API)",
+                "image": "Google.JPG",
+                "url": "https://project-a4d47.web.app"
+            },
+            {
+                "title": "Facebook Clone ",
+                "category": "(React JS, Firestore: Google Authentication)",
+                "image": "Facebook1.JPG",
+                "url": "https://project-facebook-a52db.web.app"
+            },
+            {
+                "title": "Slack App build ",
+                "category": "(React JS, Styled components, Firebase: Auth)",
+                "image": "Slack1.JPG",
+                "url": "https://project-slack-2.web.app"
+            },
+            {
+                "title": "COVID-19 Tracker ",
+                "category": "(React JS, Real-Time API, Interactive Maps)",
+                "image": "Covid-19.JPG",
+                "url": "https://project-covid19-ecfbe.web.app/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Siddhesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+                "user": "Jorge Fouto"
+            },
+            {
+                "text": "Learning along with Siddhesh has been AWESOME, he makes ",
+                "user": "Adam Curtis"
+            }
+        ]
+    }
+}
