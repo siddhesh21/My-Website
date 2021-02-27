@@ -2,14 +2,36 @@ import React from "react";
 
 const Resume = ({ data }) => {
   if (data) {
-    var skillmessage = data.skillmessage;
+    var MLskillmessage = data.MLskillmessage;
+    var Programmingskillmessage = data.Programmingskillmessage;
+    var Selfskillmessage = data.Selfskillmessage;
 
-    var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
+    var pskills = data.pskills.map(function (pskills) {
+      var className = "bar-expand " + pskills.name.toLowerCase();
       return (
-        <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
+        <li key={pskills.name}>
+          <span style={{ width: pskills.level }} className={className}></span>
+          <em>{pskills.name}</em>
+        </li>
+      );
+    });
+
+    var mskills = data.mskills.map(function (mskills) {
+      var className = "bar-expand " + mskills.name.toLowerCase();
+      return (
+        <li key={mskills.name}>
+          <span style={{ width: mskills.level }} className={className}></span>
+          <em>{mskills.name}</em>
+        </li>
+      );
+    });
+
+    var lskills = data.lskills.map(function (lskills) {
+      var className = "bar-expand " + lskills.name.toLowerCase();
+      return (
+        <li key={lskills.name}>
+          <span style={{ width: lskills.level }} className={className}></span>
+          <em>{lskills.name}</em>
         </li>
       );
     });
@@ -66,18 +88,53 @@ const Resume = ({ data }) => {
         <div className="nine columns main-col">{work}</div>
       </div>
 
+      {/* Programming Skills */}
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
             <span>Skills</span>
           </h1>
         </div>
-
         <div className="nine columns main-col">
-          <h4>{skillmessage}</h4>
+          <h4>{Programmingskillmessage}</h4>
 
           <div className="bars">
-            <ul className="skills">{skills}</ul>
+            <ul className="skills">{pskills}</ul>
+          </div>
+        </div>
+      </div>
+
+      {/* ML | AI Skills */}
+      <div className="row skill">
+        <div className="three columns header-col">
+          <h1>
+            <span>ML | AI Skills</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <h4>{MLskillmessage}</h4>
+
+          <div className="bars">
+            <ul className="skills">{mskills}</ul>
+          </div>
+        </div>
+
+        {/*Self Learning Skills */}
+        <div className="row skill">
+          <div className="three columns header-col">
+            <h1>
+              <span>Self Learning </span>
+              <span>Full Stack Dev</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <h4>{Selfskillmessage}</h4>
+
+            <div className="bars">
+              <ul className="skills">{lskills}</ul>
+            </div>
           </div>
         </div>
       </div>

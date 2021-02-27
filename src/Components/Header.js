@@ -51,11 +51,11 @@ const Header = ({ data }) => {
               Works
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#testimonials">
               Testimonials
             </a>
-          </li>
+          </li> */}
           <li>
             <a className="smoothscroll" href="#contact">
               Contact
@@ -82,16 +82,16 @@ const Header = ({ data }) => {
           <i className="icon-down-circle"></i>
         </a>
       </p>
-
-      {/* <Particles
+      {/* 
+      <Particles
         className="particle--intro"
         params={{
           particles: {
             number: {
-              value: 77,
+              value: 100,
               density: {
                 enable: true,
-                value_area: 1000,
+                value_area: 1500,
               },
             },
             move: {

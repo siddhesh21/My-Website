@@ -272,8 +272,9 @@ ul#nav li.current a {
 
 #about .profile-pic {
     position: relative;
-    min-width: 207px;
-    height: 321px;
+    max-width: 200px;
+    height: 300px;
+    margin-top: 20px;
     border-radius: 7%;
 }
 
@@ -373,7 +374,6 @@ ul#nav li.current a {
 
 #resume h1 span {
     border-bottom: 3px solid #03e9f4;
-    padding-bottom: 6px;
 }
 
 #resume h3 {
@@ -667,7 +667,7 @@ ul#nav li.current a {
 /* Portfolio Content */
 
 #portfolio-wrapper .columns {
-    margin-bottom: 36px;
+    margin-bottom: 50px;
 }
 
 .portfolio-item .item-wrap {
