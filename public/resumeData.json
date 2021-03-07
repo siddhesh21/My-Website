@@ -3,7 +3,7 @@
         "name": "Siddhesh Kankekar",
         "occupation": "Studying Master's  @Trinity College Dublin, Ireland",
         "description": "",
-        "image": "profilepic.jpg",
+        "image": "",
         "bio": "Hi there! I am Siddhesh! ",
         "contactmessage": "Connect with me.",
         "email": "kankekas@tcd.ie",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/siddhesh-kankekar-2a5b22186/",
+                "url": "www.linkedin.com/in/siddhesh-kankekar",
                 "className": "fa fa-linkedin"
             },
             {
@@ -56,20 +56,16 @@
             "company": "Ugam Solution Pvt Ltd.",
             "title": "Associate Analyst, Market Research Op",
             "years": "July 2019 - June 2020",
-            "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones in a professional environment. As per client requirements, studies included static, dynamic, media contents, and client-specific survey setups and modules by adapting quickly to company-specific software.\n Along with programming, I would debug data queries by the client, manage tasks such as client requests and changes, data manipulation, vendor distribution end links, Internal quality checks, mobile compatibility, User Interface testing, dynamic media setups, and project closure data. "
+            "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones."
         }],
         "Programmingskillmessage": "My Programming Language Proficiency",
         "pskills": [{
-                "name": "Python",
-                "level": "80%"
-            },
-            {
                 "name": "JavaScript",
                 "level": "85%"
             },
             {
-                "name": "CSS",
-                "level": "70%"
+                "name": "Python",
+                "level": "80%"
             }
         ],
 
@@ -92,29 +88,30 @@
             }
         ],
 
-        "Selfskillmessage": "Self Developing Skills",
+        "Selfskillmessage": "Machine Learning",
         "lskills": [{
                 "name": "React JS",
-                "level": "75%"
+                "level": "70%"
             },
             {
-                "name": "React Native",
-                "level": "55%"
-            },
-            {
-                "name": "Design Libraries- Material-UI",
-                "level": "80%"
-            },
-            {
-                "name": "Realtime Database- Firebase",
+                "name": "Firebase, STRIPE",
                 "level": "85%"
             },
             {
-                "name": "Styled-Components, BEM-conventions",
-                "level": "75%"
+                "name": "Mongo DB, Pusher",
+                "level": "60%"
+            },
+            {
+                "name": "Styled-components, BEM",
+                "level": "65%"
+            },
+            {
+                "name": "Node JS, Redux, React-Context API",
+                "level": "65%"
             }
         ]
     },
+
     "portfolio": {
         "projects": [{
                 "title": "NetfliX Clone ",

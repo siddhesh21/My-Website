@@ -3,7 +3,7 @@ import React from "react";
 const About = ({ data }) => {
   if (data) {
     var name = data.name;
-    var profilepic = "images/" + data.image;
+    // var profilepic = "images/" + data.image;
     var bio = data.bio;
     var street = data.address.street;
     var city = data.address.city;
@@ -18,18 +18,18 @@ const About = ({ data }) => {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img
+          {/* <img
             className="profile-pic"
-            src={profilepic}
+            // src={profilepic}
             alt="Siddhesh's Profile Pic"
-          />
+          /> */}
         </div>
         <div className="nine columns main-col">
-          <h2>About Me</h2>
+          {/* <h2>Technology Used</h2> */}
 
-          <p>{bio}</p>
+          {/* <p>{bio}</p> */}
           <div className="row">
-            <div className="columns contact-details">
+            {/* <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
                 <span>{name}</span>
@@ -44,7 +44,7 @@ const About = ({ data }) => {
                 <br />
                 <span>{email}</span>
               </p>
-            </div>
+            </div> */}
             <div className="columns download">
               <p>
                 <a href={resumeDownload} className="button">

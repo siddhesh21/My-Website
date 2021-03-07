@@ -294,6 +294,7 @@ ul#nav li.current a {
 #about .download .button {
     margin-top: 6px;
     background: #000;
+    text-align: center;
 }
 
 #about .download .button {

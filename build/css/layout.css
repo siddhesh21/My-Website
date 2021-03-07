@@ -374,6 +374,7 @@ ul#nav li.current a {
 
 #resume h1 span {
     border-bottom: 3px solid #03e9f4;
+    padding-bottom: 0px;
 }
 
 #resume h3 {
@@ -667,7 +668,7 @@ ul#nav li.current a {
 /* Portfolio Content */
 
 #portfolio-wrapper .columns {
-    margin-bottom: 50px;
+    margin-bottom: 36px;
 }
 
 .portfolio-item .item-wrap {

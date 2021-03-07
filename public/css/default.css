@@ -902,6 +902,11 @@ input[type="checkbox"] {
     margin: 0 -20px;
 }
 
+.skills--fadeBottom {
+    height: 4rem;
+    background-image: linear-gradient(180deg, rgba(37, 37, 37, 0.61), #111);
+}
+
 
 /* row clearing */
 
