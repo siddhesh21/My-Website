@@ -53,7 +53,7 @@ const About = ({ data }) => {
                   <span></span>
                   <span></span>
                   <span></span>
-                  Download Resume
+                  Download Resumé
                 </a>
               </p>
             </div>
