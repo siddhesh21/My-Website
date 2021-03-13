@@ -76,9 +76,9 @@ const Header = ({ data }) => {
           <ul className="social">{networks}</ul>
           <br />
 
-          <h2 style={{ color: "violet" }}>
+          {/* <h2 style={{ color: "violet" }}>
             The website & resumé will be updated on March, 13
-          </h2>
+          </h2> */}
         </div>
       </div>
 
