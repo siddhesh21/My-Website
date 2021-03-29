@@ -120,6 +120,12 @@
                 "url": "https://project-netflix-23ae7.web.app"
             },
             {
+                "title": "e-Commerce Shop App",
+                "category": "(React JS, STRIPE, Commerce JS)",
+                "image": "e-Commerce0.JPG",
+                "url": "https://project-ecommerce-6ef06.web.app"
+            },
+            {
                 "title": "Gmail Build ",
                 "category": "(React JS, React Hook Form, G00gle Auth)",
                 "image": "Gmail.gif",
@@ -136,6 +142,18 @@
                 "category": "(React JS, Firestore: Google Authentication)",
                 "image": "FaceBook.gif",
                 "url": "https://project-facebook-a52db.web.app"
+            },
+            {
+                "title": "Spotify App ",
+                "category": "(React JS, Spotify Web Dev)",
+                "image": "Spotify0.JPG",
+                "url": "https://project-spotify-app-6b7a5.web.app"
+            },
+            {
+                "title": "Whats App ",
+                "category": "(Mongoose DB, Express JS, React JS, Node JS)",
+                "image": "Whatsapp0.JPG",
+                "url": "https://react-mern-whatsapp.web.app"
             },
             {
                 "title": "Slack App build ",
