@@ -73,6 +73,9 @@
         "mskills": [{
                 "name": "Regression Modelling",
                 "level": "80%"
+            }, {
+                "name": "ML Modelling - TensorFlow, PyTorch",
+                "level": "60%"
             },
             {
                 "name": "Classification Modelling",
@@ -88,10 +91,18 @@
             }
         ],
 
-        "Selfskillmessage": "Machine Learning",
+        "Selfskillmessage": "Development",
         "lskills": [{
                 "name": "React JS",
                 "level": "70%"
+            },
+            {
+                "name": "Next JS",
+                "level": "45%"
+            },
+            {
+                "name": "Tailwind CSS",
+                "level": "45%"
             },
             {
                 "name": "Firebase, STRIPE",
@@ -99,11 +110,11 @@
             },
             {
                 "name": "Mongo DB, Pusher",
-                "level": "60%"
+                "level": "50%"
             },
             {
                 "name": "Styled-components, BEM",
-                "level": "65%"
+                "level": "75%"
             },
             {
                 "name": "Node JS, Redux, React-Context API",
