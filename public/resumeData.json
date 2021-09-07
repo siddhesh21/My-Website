@@ -57,70 +57,8 @@
             "title": "Associate Analyst, Market Research Op",
             "years": "July 2019 - June 2020",
             "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones."
-        }],
-        "Programmingskillmessage": "My Programming Language Proficiency",
-        "pskills": [{
-                "name": "JavaScript",
-                "level": "85%"
-            },
-            {
-                "name": "Python",
-                "level": "80%"
-            }
-        ],
+        }]
 
-        "MLskillmessage": "Machine Learning",
-        "mskills": [{
-                "name": "Regression Modelling",
-                "level": "80%"
-            }, {
-                "name": "ML Modelling - TensorFlow, PyTorch",
-                "level": "60%"
-            },
-            {
-                "name": "Classification Modelling",
-                "level": "85%"
-            },
-            {
-                "name": "OpenCV Projects",
-                "level": "60%"
-            },
-            {
-                "name": "Natural Language Processing",
-                "level": "55%"
-            }
-        ],
-
-        "Selfskillmessage": "Development",
-        "lskills": [{
-                "name": "React JS",
-                "level": "70%"
-            },
-            {
-                "name": "Next JS",
-                "level": "45%"
-            },
-            {
-                "name": "Tailwind CSS",
-                "level": "45%"
-            },
-            {
-                "name": "Firebase, STRIPE",
-                "level": "85%"
-            },
-            {
-                "name": "Mongo DB, Pusher",
-                "level": "50%"
-            },
-            {
-                "name": "Styled-components, BEM",
-                "level": "75%"
-            },
-            {
-                "name": "Node JS, Redux, React-Context API",
-                "level": "65%"
-            }
-        ]
     },
 
     "portfolio": {

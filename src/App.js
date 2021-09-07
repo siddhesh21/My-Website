@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
-import Resume from "./Components/Resume";
+// import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 import Card from "./Components/Card";
@@ -24,7 +24,7 @@ const App = () => {
     <div className="App">
       <Header data={resumeData.main} />
       <About data={resumeData.main} />
-      <Resume data={resumeData.resume} />
+      {/* <Resume data={resumeData.resume} /> */}
       <Card data={resumeData.work} />
       <Portfolio data={resumeData.portfolio} />
       <Contact data={resumeData.main} />
