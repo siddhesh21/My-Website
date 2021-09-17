@@ -1,121 +1,124 @@
 {
-    "main": {
-        "name": "Siddhesh Kankekar",
-        "occupation": "Studying Master's  @Trinity College Dublin, Ireland",
-        "description": "",
-        "image": "",
-        "bio": "Hi there! I am Siddhesh! ",
-        "contactmessage": "Connect with me.",
-        "email": "kankekas@tcd.ie",
-        "phone": "+353 851740484",
-        "address": {
-            "street": "Kavanagh Court, 1 Gardiner Street Lower",
-            "city": "Dublin",
-            "state": "Leinster",
-            "zip": "D01 P9Y1"
-        },
-        "website": "https://sid-website.web.app/",
-        "resumedownload": "Resume.pdf",
-        "social": [{
-                "name": "facebook",
-                "url": "https://www.facebook.com/siddhesh.kankekar.50/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/siddhesh-kankekar",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "instagram",
-                "url": "https://www.instagram.com/siddhesh.2101/",
-                "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/siddhesh21",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Siddhesh Kankekar",
+    "occupation": "Studying Master's  @Trinity College Dublin, Ireland",
+    "description": "",
+    "image": "",
+    "bio": "Hi there! I am Siddhesh! ",
+    "contactmessage": "Connect with me.",
+    "email": "kankekas@tcd.ie",
+    "phone": "+353 851740484",
+    "address": {
+      "city": "Dublin",
+      "state": "Leinster",
+      "zip": "D24 Y36X"
     },
-    "resume": {
-        "education": [{
-                "school": "Trinity College Dublin - Ireland",
-                "degree": "Master's Degree, Computer Science: Intelligent Systems",
-                "graduated": "Sept 2021"
-            },
-            {
-                "school": "University of Mumbai - India",
-                "degree": "Bachelor's Degree, Computer Science",
-                "graduated": "July 2019",
-                "description": "Graduated with First Class Honours"
-            }
-        ],
+    "website": "https://sid-website.web.app/",
+    "resumedownload": "Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/siddhesh.kankekar.50/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siddhesh-kankekar",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/siddhesh.kankekar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/siddhesh21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Trinity College Dublin - Ireland",
+        "degree": "Master's Degree, Computer Science: Intelligent Systems",
+        "graduated": "Sept 2021"
+      },
+      {
+        "school": "University of Mumbai - India",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2019",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
 
-        "work": [{
-            "company": "Ugam Solution Pvt Ltd.",
-            "title": "Associate Analyst, Market Research Op",
-            "years": "July 2019 - June 2020",
-            "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones."
-        }]
+    "work": [
+      {
+        "company": "Ugam Solution Pvt Ltd.",
+        "title": "Associate Analyst, Market Research Op",
+        "years": "July 2019 - June 2020",
+        "description": "My major role was programming for four different types of projects and over 25 individual studies within 8-9 months and worked tight deadlines in a varying time zones."
+      }
+    ]
+  },
 
-    },
-
-    "portfolio": {
-        "projects": [{
-                "title": "NetfliX Clone ",
-                "category": "(React JS, Stripe, Firebase)",
-                "image": "Netflix.gif",
-                "url": "https://project-netflix-23ae7.web.app"
-            },
-            {
-                "title": "e-Commerce Shop App",
-                "category": "(React JS, STRIPE, Commerce JS)",
-                "image": "e-Commerce0.JPG",
-                "url": "https://project-ecommerce-6ef06.web.app"
-            },
-            {
-                "title": "Gmail Build ",
-                "category": "(React JS, React Hook Form, G00gle Auth)",
-                "image": "Gmail.gif",
-                "url": "https://project-a26f7.web.app"
-            },
-            {
-                "title": "Google Search ",
-                "category": "(React JS, Google API)",
-                "image": "Google.gif",
-                "url": "https://project-a4d47.web.app"
-            },
-            {
-                "title": "Facebook Clone ",
-                "category": "(React JS, Firestore: Google Authentication)",
-                "image": "FaceBook.gif",
-                "url": "https://project-facebook-a52db.web.app"
-            },
-            {
-                "title": "Spotify App ",
-                "category": "(React JS, Spotify Web Dev)",
-                "image": "Spotify0.JPG",
-                "url": "https://project-spotify-app-6b7a5.web.app"
-            },
-            {
-                "title": "Whats App ",
-                "category": "(Mongoose DB, Express JS, React JS, Node JS)",
-                "image": "Whatsapp0.JPG",
-                "url": "https://react-mern-whatsapp.web.app"
-            },
-            {
-                "title": "Slack App build ",
-                "category": "(React JS, Styled components, Firebase: Auth)",
-                "image": "SLACK.gif",
-                "url": "https://project-slack-2.web.app"
-            },
-            {
-                "title": "COVID-19 Tracker ",
-                "category": "(React JS, Real-Time API, Interactive Maps)",
-                "image": "Covid.gif",
-                "url": "https://project-covid19-ecfbe.web.app/"
-            }
-        ]
-    }
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NetfliX Clone ",
+        "category": "(React JS, Stripe, Firebase)",
+        "image": "Netflix.gif",
+        "url": "https://project-netflix-23ae7.web.app"
+      },
+      {
+        "title": "e-Commerce Shop App",
+        "category": "(React JS, STRIPE, Commerce JS)",
+        "image": "e-Commerce0.JPG",
+        "url": "https://project-ecommerce-6ef06.web.app"
+      },
+      {
+        "title": "Gmail Build ",
+        "category": "(React JS, React Hook Form, G00gle Auth)",
+        "image": "Gmail.gif",
+        "url": "https://project-a26f7.web.app"
+      },
+      {
+        "title": "Google Search ",
+        "category": "(React JS, Google API)",
+        "image": "Google.gif",
+        "url": "https://project-a4d47.web.app"
+      },
+      {
+        "title": "Facebook Clone ",
+        "category": "(React JS, Firestore: Google Authentication)",
+        "image": "FaceBook.gif",
+        "url": "https://project-facebook-a52db.web.app"
+      },
+      {
+        "title": "Spotify App ",
+        "category": "(React JS, Spotify Web Dev)",
+        "image": "Spotify0.JPG",
+        "url": "https://project-spotify-app-6b7a5.web.app"
+      },
+      {
+        "title": "Whats App ",
+        "category": "(Mongoose DB, Express JS, React JS, Node JS)",
+        "image": "Whatsapp0.JPG",
+        "url": "https://react-mern-whatsapp.web.app"
+      },
+      {
+        "title": "Slack App build ",
+        "category": "(React JS, Styled components, Firebase: Auth)",
+        "image": "SLACK.gif",
+        "url": "https://project-slack-2.web.app"
+      },
+      {
+        "title": "COVID-19 Tracker ",
+        "category": "(React JS, Real-Time API, Interactive Maps)",
+        "image": "Covid.gif",
+        "url": "https://project-covid19-ecfbe.web.app/"
+      }
+    ]
+  }
 }
