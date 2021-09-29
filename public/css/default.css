@@ -857,6 +857,8 @@ input[type="checkbox"] {
 --------------------------------------------------------------- */
 
 .row {
+  display: flex;
+  flex-direction: column;
   width: 45%;
   max-width: 1020px;
   margin: 0 auto;

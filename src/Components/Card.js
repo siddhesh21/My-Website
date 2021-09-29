@@ -21,10 +21,10 @@ function Card() {
           <div className="face face2">
             <div className="content">
               <p>
-                We develop your website, completely custom based on your
+                I develop your website, completely custom based on your
                 requests. This will allow you to have the site of your dreams
               </p>
-              <a href="#">Read More</a>
+              {/* <a href="#">Read More</a> */}
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ function Card() {
           <div className="face face2">
             <div className="content">
               <p>Check-out my self produced work here</p>
-              <a href="#">View to know More</a>
+              {/* <a href="#">View to know More</a> */}
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@ function Card() {
                 don't want to invest in a new site, I will restore your site and
                 give it new life
               </p>
-              <a href="#">Read More</a>
+              {/* <a href="#">Read More</a> */}
             </div>
           </div>
         </div>

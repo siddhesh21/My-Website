@@ -6,7 +6,7 @@ import About from "./Components/About";
 // import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
-import Card from "./Components/Card";
+// import Card from "./Components/Card";
 import "./App.css";
 
 const App = () => {
@@ -25,7 +25,7 @@ const App = () => {
       <Header data={resumeData.main} />
       <About data={resumeData.main} />
       {/* <Resume data={resumeData.resume} /> */}
-      <Card data={resumeData.work} />
+      {/* <Card data={resumeData.work} /> */}
       <Portfolio data={resumeData.portfolio} />
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
